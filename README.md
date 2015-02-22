@@ -1,4 +1,4 @@
-# Karan's dotfiles
+# dotfiles - (Major Credit goes to Karan Goel: http://karan.github.io/dotfiles)
 
 ## Installation
 
