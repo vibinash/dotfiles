@@ -6,19 +6,21 @@ alias .....="cd ../../../.."
 alias -- -="cd -"
 
 # Shortcuts
-alias d="cd ~/Desktop"
-alias c="cd ~/Dropbox/Codebase"
+alias d="cd ~/Documents"
+alias c="cd ~/Documents/workspace"
 
 # List only directories
 alias lsd="ls -lF ${colorflag} | grep --color=never '^d'"
 alias l="ls"
 alias ll="ls -al"
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagaced
 
 # start a local python server
 alias serve="python -m SimpleHTTPServer"
 
 # start sublime
-alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+alias subl="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
 
 # make py3 virtual env
 alias mkv3="mkvirtualenv -p /usr/local/bin/python3 $1"

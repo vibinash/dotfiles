@@ -1,6 +1,6 @@
 set history=700
 
-execute pathogen#infect()
+" execute pathogen#infect()
 syntax on
 
 filetype plugin on
@@ -59,7 +59,7 @@ set tm=500
 syntax enable
 
 " let g:molokai_original=1
-colorscheme monokai
+" colorscheme monokai
 
 if has("gui_running")
     set guioptions-=T

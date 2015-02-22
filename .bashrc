@@ -39,4 +39,4 @@ export PATH=${PATH}:~/Documents/adt-bundle-mac-x86_64-20140702/sdk/platform-tool
 # Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
 # add path for flow
-PATH="$PATH:/Users/karan/Documents/flow/"
+PATH="$PATH:/Users/vibinash/Documents/flow/"
