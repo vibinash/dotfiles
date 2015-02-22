@@ -1,4 +1,6 @@
-# dotfiles - (Major Credit goes to Karan Goel: http://karan.github.io/dotfiles)
+# dotfiles - (Credit goes to Karan Goel)
+
+### More Info at http://karan.github.io/dotfiles
 
 ## Installation
 
